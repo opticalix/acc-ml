@@ -1,3 +1,6 @@
+.idea/
+feature_extraction/.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
